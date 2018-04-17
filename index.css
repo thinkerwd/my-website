@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Fzdykt;
+    src: url("fzhc.ttf");
+}
+
+body {
+    background-size: 100% 100%;
+    background: radial-gradient(circle, #e9e4e1, #dbdce0) fixed;
+}
+
+.index h3 {
+    color: #6faaae;
+    font-family: Fzdykt;
+    font-size: 2em;
+}
+
+.index p {
+    color: #6faaae;
+}
