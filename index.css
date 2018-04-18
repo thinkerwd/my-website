@@ -3,6 +3,11 @@
     src: url("fzhc.ttf");
 }
 
+@font-face {
+    font-family: Zjjxs;
+    src: url("zjjxs.ttf");
+}
+
 body {
     background-size: 100% 100%;
     background: radial-gradient(circle, #e9e4e1, #dbdce0) fixed;
@@ -17,4 +22,11 @@ body {
     color: #6faaae;
     font-family: Fzdykt;
     font-size: 3em;
+}
+
+.index a {
+    color: #6faaae;
+    font-family: Zjjxs;
+    font-size: 2em;
+    display: block;
 }
