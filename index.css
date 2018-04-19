@@ -1,11 +1,11 @@
 @font-face {
     font-family: Fzdykt;
-    src: url("fzhc.ttf");
+    src: url("fzhcMin.ttf");
 }
 
 @font-face {
     font-family: Zjjxs;
-    src: url("zjjxs.ttf");
+    src: url("zjjxsMin.ttf");
 }
 
 body {
